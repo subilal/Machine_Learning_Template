@@ -1,0 +1,15 @@
+ data/external/.gitkeep
+ data/interim/.gitkeep
+ data/processed/test/.gitkeep
+ data/processed/train/.gitkeep
+ data/processed/validation/.gitkeep
+ data/raw/.gitkeep
+ docs/.gitkeep
+ ls/.gitkeep
+ notebooks/.gitkeep
+ references/.gitkeep
+ reports/figures/.gitkeep
+ src/data/.gitkeep
+ src/features/.gitkeep
+ src/ls/.gitkeep
+ src/visualisations/.gitkeep
